@@ -1,0 +1,91 @@
+action_id,entity_id,recommendation_theme,priority,expected_value_or_cost_avoidance,confidence,next_step
+ACT0001,ENT001,Turn research notes into PRD-ready problem statements before writing solution requirements.,P1,18756,Medium,investigate anomaly
+ACT0002,ENT002,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,29618,Medium,run stakeholder review
+ACT0003,ENT003,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,61345,Medium,investigate anomaly
+ACT0004,ENT004,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,42052,Directional,run stakeholder review
+ACT0005,ENT005,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,45040,Medium,ship dashboard
+ACT0006,ENT006,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P3,46105,Directional,ship dashboard
+ACT0007,ENT007,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P3,39219,Medium,certify metric
+ACT0008,ENT008,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,141690,High,rewrite requirement
+ACT0009,ENT009,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,129325,Directional,certify metric
+ACT0010,ENT010,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,47238,Directional,ship dashboard
+ACT0011,ENT011,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,144871,Medium,ship dashboard
+ACT0012,ENT012,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,108696,High,run stakeholder review
+ACT0013,ENT013,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P3,29729,Medium,investigate anomaly
+ACT0014,ENT014,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,75893,Directional,certify metric
+ACT0015,ENT015,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P3,97053,Medium,rewrite requirement
+ACT0016,ENT016,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P2,113678,Directional,run stakeholder review
+ACT0017,ENT017,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,103662,High,certify metric
+ACT0018,ENT018,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P2,107391,High,investigate anomaly
+ACT0019,ENT019,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P3,32509,Medium,certify metric
+ACT0020,ENT020,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,18660,Medium,automate refresh
+ACT0021,ENT021,Turn research notes into PRD-ready problem statements before writing solution requirements.,P1,20337,Medium,investigate anomaly
+ACT0022,ENT022,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P2,116921,High,run stakeholder review
+ACT0023,ENT023,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P3,62925,Directional,ship dashboard
+ACT0024,ENT024,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,77219,Medium,ship dashboard
+ACT0025,ENT001,Turn research notes into PRD-ready problem statements before writing solution requirements.,P3,24155,High,run stakeholder review
+ACT0026,ENT002,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P2,97298,Directional,rewrite requirement
+ACT0027,ENT003,Turn research notes into PRD-ready problem statements before writing solution requirements.,P3,83738,Directional,automate refresh
+ACT0028,ENT004,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,140667,High,rewrite requirement
+ACT0029,ENT005,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,16678,Medium,run stakeholder review
+ACT0030,ENT006,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,118836,Medium,run stakeholder review
+ACT0031,ENT007,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P2,60788,High,run stakeholder review
+ACT0032,ENT008,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,57530,Directional,automate refresh
+ACT0033,ENT009,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P3,66263,Directional,investigate anomaly
+ACT0034,ENT010,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,129231,High,automate refresh
+ACT0035,ENT011,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,54204,Directional,ship dashboard
+ACT0036,ENT012,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,122938,Medium,rewrite requirement
+ACT0037,ENT013,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,119051,High,certify metric
+ACT0038,ENT014,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,86429,Medium,certify metric
+ACT0039,ENT015,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P3,133914,High,ship dashboard
+ACT0040,ENT016,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,40788,High,rewrite requirement
+ACT0041,ENT017,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,14386,Directional,ship dashboard
+ACT0042,ENT018,Turn research notes into PRD-ready problem statements before writing solution requirements.,P3,50784,High,run stakeholder review
+ACT0043,ENT019,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,90561,Medium,rewrite requirement
+ACT0044,ENT020,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,52498,High,run stakeholder review
+ACT0045,ENT021,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,84378,High,investigate anomaly
+ACT0046,ENT022,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,41873,Directional,ship dashboard
+ACT0047,ENT023,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,27017,Directional,rewrite requirement
+ACT0048,ENT024,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P2,46004,Directional,investigate anomaly
+ACT0049,ENT001,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,75466,High,investigate anomaly
+ACT0050,ENT002,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P2,73884,High,rewrite requirement
+ACT0051,ENT003,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,87477,Directional,automate refresh
+ACT0052,ENT004,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,84029,High,run stakeholder review
+ACT0053,ENT005,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,36891,High,certify metric
+ACT0054,ENT006,Turn research notes into PRD-ready problem statements before writing solution requirements.,P1,103320,Medium,investigate anomaly
+ACT0055,ENT007,Turn research notes into PRD-ready problem statements before writing solution requirements.,P3,51328,High,certify metric
+ACT0056,ENT008,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P2,98459,High,automate refresh
+ACT0057,ENT009,Turn research notes into PRD-ready problem statements before writing solution requirements.,P1,126356,Medium,investigate anomaly
+ACT0058,ENT010,Turn research notes into PRD-ready problem statements before writing solution requirements.,P0,88166,Directional,automate refresh
+ACT0059,ENT011,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P3,127575,Directional,investigate anomaly
+ACT0060,ENT012,Turn research notes into PRD-ready problem statements before writing solution requirements.,P0,113476,High,certify metric
+ACT0061,ENT013,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,42164,High,run stakeholder review
+ACT0062,ENT014,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P3,107039,High,investigate anomaly
+ACT0063,ENT015,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,25415,Directional,investigate anomaly
+ACT0064,ENT016,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,104676,Directional,rewrite requirement
+ACT0065,ENT017,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,115724,Directional,ship dashboard
+ACT0066,ENT018,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,93082,Directional,automate refresh
+ACT0067,ENT019,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P0,142739,High,automate refresh
+ACT0068,ENT020,Turn research notes into PRD-ready problem statements before writing solution requirements.,P0,69204,High,investigate anomaly
+ACT0069,ENT021,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P2,119703,High,certify metric
+ACT0070,ENT022,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,61911,High,ship dashboard
+ACT0071,ENT023,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,14962,Directional,rewrite requirement
+ACT0072,ENT024,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,58559,Medium,certify metric
+ACT0073,ENT001,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P3,45321,High,certify metric
+ACT0074,ENT002,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P3,30376,Directional,ship dashboard
+ACT0075,ENT003,Turn research notes into PRD-ready problem statements before writing solution requirements.,P0,85556,Directional,ship dashboard
+ACT0076,ENT004,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P3,104697,Directional,automate refresh
+ACT0077,ENT005,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P2,121278,Medium,run stakeholder review
+ACT0078,ENT006,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P2,4268,High,run stakeholder review
+ACT0079,ENT007,Turn research notes into PRD-ready problem statements before writing solution requirements.,P0,7485,Directional,run stakeholder review
+ACT0080,ENT008,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P0,5865,High,ship dashboard
+ACT0081,ENT009,Turn research notes into PRD-ready problem statements before writing solution requirements.,P1,103387,High,rewrite requirement
+ACT0082,ENT010,Turn research notes into PRD-ready problem statements before writing solution requirements.,P3,19295,High,rewrite requirement
+ACT0083,ENT011,Turn research notes into PRD-ready problem statements before writing solution requirements.,P1,38118,High,rewrite requirement
+ACT0084,ENT012,Turn research notes into PRD-ready problem statements before writing solution requirements.,P2,120018,Medium,rewrite requirement
+ACT0085,ENT013,Turn research notes into PRD-ready problem statements before writing solution requirements.,P0,47814,High,certify metric
+ACT0086,ENT014,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P2,112289,Medium,certify metric
+ACT0087,ENT015,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P1,97214,High,ship dashboard
+ACT0088,ENT016,"Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.",P2,53437,High,certify metric
+ACT0089,ENT017,"Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.",P1,91012,Directional,investigate anomaly
+ACT0090,ENT018,Turn research notes into PRD-ready problem statements before writing solution requirements.,P0,135359,Directional,run stakeholder review

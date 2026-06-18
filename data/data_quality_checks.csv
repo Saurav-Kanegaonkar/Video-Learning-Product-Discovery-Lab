@@ -1,0 +1,361 @@
+check_id,run_date,source_system,check_type,records_checked,failed_records,failure_rate_pct,severity
+CHK0001,2026-01-01,user interviews,threshold_breach,85307,452,0.53,Low
+CHK0002,2026-01-02,user interviews,threshold_breach,58717,649,1.11,Medium
+CHK0003,2026-01-03,launch tracker,freshness,43984,1191,2.71,High
+CHK0004,2026-01-04,Jira,duplicate_key,71572,618,0.86,Low
+CHK0005,2026-01-05,product events,null_rate,174957,4191,2.4,Medium
+CHK0006,2026-01-06,launch tracker,definition_drift,107985,3604,3.34,High
+CHK0007,2026-01-07,customer success notes,null_rate,22618,385,1.7,Medium
+CHK0008,2026-01-08,Jira,referential_integrity,227856,997,0.44,Low
+CHK0009,2026-01-09,customer success notes,definition_drift,123263,1039,0.84,Low
+CHK0010,2026-01-10,user interviews,referential_integrity,46754,1786,3.82,High
+CHK0011,2026-01-11,Jira,null_rate,32989,403,1.22,Medium
+CHK0012,2026-01-12,user interviews,null_rate,58913,359,0.61,Low
+CHK0013,2026-01-13,Jira,freshness,196124,7441,3.79,High
+CHK0014,2026-01-14,launch tracker,definition_drift,105955,395,0.37,Low
+CHK0015,2026-01-15,customer success notes,freshness,3009,80,2.66,High
+CHK0016,2026-01-16,product events,duplicate_key,12476,168,1.35,Medium
+CHK0017,2026-01-17,Jira,null_rate,166525,3283,1.97,Medium
+CHK0018,2026-01-18,customer success notes,definition_drift,236558,9282,3.92,High
+CHK0019,2026-01-19,user interviews,null_rate,92452,3610,3.9,High
+CHK0020,2026-01-20,product events,threshold_breach,144238,4846,3.36,High
+CHK0021,2026-01-21,user interviews,definition_drift,46788,69,0.15,Low
+CHK0022,2026-01-22,launch tracker,referential_integrity,124513,2200,1.77,Medium
+CHK0023,2026-01-23,launch tracker,freshness,229696,5587,2.43,Medium
+CHK0024,2026-01-24,launch tracker,duplicate_key,132794,4431,3.34,High
+CHK0025,2026-01-25,Jira,null_rate,103510,412,0.4,Low
+CHK0026,2026-01-26,user interviews,duplicate_key,162099,1313,0.81,Low
+CHK0027,2026-01-27,product events,definition_drift,126669,3418,2.7,High
+CHK0028,2026-01-28,Jira,threshold_breach,11890,144,1.21,Medium
+CHK0029,2026-01-29,user interviews,duplicate_key,155210,2091,1.35,Medium
+CHK0030,2026-01-30,product events,freshness,28260,798,2.82,High
+CHK0031,2026-01-31,customer success notes,null_rate,11091,369,3.33,High
+CHK0032,2026-02-01,user interviews,freshness,185359,6316,3.41,High
+CHK0033,2026-02-02,user interviews,definition_drift,65471,930,1.42,Medium
+CHK0034,2026-02-03,user interviews,freshness,138159,5097,3.69,High
+CHK0035,2026-02-04,Jira,null_rate,163221,571,0.35,Low
+CHK0036,2026-02-05,customer success notes,threshold_breach,7472,155,2.07,Medium
+CHK0037,2026-02-06,Jira,referential_integrity,236087,4941,2.09,Medium
+CHK0038,2026-02-07,Jira,threshold_breach,223510,1467,0.66,Low
+CHK0039,2026-02-08,Jira,null_rate,213495,5337,2.5,Medium
+CHK0040,2026-02-09,launch tracker,definition_drift,188879,4495,2.38,Medium
+CHK0041,2026-02-10,product events,null_rate,187400,5890,3.14,High
+CHK0042,2026-02-11,user interviews,definition_drift,64831,2323,3.58,High
+CHK0043,2026-02-12,Jira,freshness,113876,2755,2.42,Medium
+CHK0044,2026-02-13,user interviews,referential_integrity,181450,3068,1.69,Medium
+CHK0045,2026-02-14,user interviews,threshold_breach,7851,149,1.9,Medium
+CHK0046,2026-02-15,customer success notes,freshness,223684,4910,2.2,Medium
+CHK0047,2026-02-16,launch tracker,definition_drift,152792,6005,3.93,High
+CHK0048,2026-02-17,product events,duplicate_key,106024,940,0.89,Low
+CHK0049,2026-02-18,product events,referential_integrity,129821,635,0.49,Low
+CHK0050,2026-02-19,Jira,freshness,144819,1922,1.33,Medium
+CHK0051,2026-02-20,user interviews,duplicate_key,13687,175,1.28,Medium
+CHK0052,2026-02-21,launch tracker,threshold_breach,50048,1791,3.58,High
+CHK0053,2026-02-22,Jira,threshold_breach,149073,1629,1.09,Medium
+CHK0054,2026-02-23,user interviews,duplicate_key,83918,151,0.18,Low
+CHK0055,2026-02-24,product events,referential_integrity,224555,5377,2.39,Medium
+CHK0056,2026-02-25,Jira,freshness,82524,2781,3.37,High
+CHK0057,2026-02-26,product events,referential_integrity,35197,419,1.19,Medium
+CHK0058,2026-02-27,customer success notes,freshness,166138,5926,3.57,High
+CHK0059,2026-02-28,Jira,null_rate,20994,25,0.12,Low
+CHK0060,2026-03-01,Jira,threshold_breach,29852,924,3.1,High
+CHK0061,2026-03-02,product events,threshold_breach,146556,1191,0.81,Low
+CHK0062,2026-03-03,Jira,threshold_breach,161957,1886,1.16,Medium
+CHK0063,2026-03-04,customer success notes,duplicate_key,230341,8026,3.48,High
+CHK0064,2026-03-05,customer success notes,freshness,208072,4341,2.09,Medium
+CHK0065,2026-03-06,launch tracker,threshold_breach,49726,891,1.79,Medium
+CHK0066,2026-03-07,user interviews,threshold_breach,219413,6061,2.76,High
+CHK0067,2026-03-08,product events,duplicate_key,178322,1671,0.94,Low
+CHK0068,2026-03-09,Jira,null_rate,3209,109,3.4,High
+CHK0069,2026-03-10,user interviews,referential_integrity,208141,6268,3.01,High
+CHK0070,2026-03-11,Jira,duplicate_key,161756,2449,1.51,Medium
+CHK0071,2026-03-12,Jira,threshold_breach,94993,3424,3.6,High
+CHK0072,2026-03-13,product events,referential_integrity,38119,421,1.1,Medium
+CHK0073,2026-03-14,Jira,null_rate,84240,3077,3.65,High
+CHK0074,2026-03-15,product events,referential_integrity,219682,2605,1.19,Medium
+CHK0075,2026-03-16,user interviews,referential_integrity,173284,937,0.54,Low
+CHK0076,2026-03-17,customer success notes,null_rate,35529,1236,3.48,High
+CHK0077,2026-03-18,customer success notes,duplicate_key,67205,1648,2.45,Medium
+CHK0078,2026-03-19,Jira,referential_integrity,89883,3063,3.41,High
+CHK0079,2026-03-20,product events,freshness,105742,2086,1.97,Medium
+CHK0080,2026-03-21,product events,threshold_breach,28481,88,0.31,Low
+CHK0081,2026-03-22,customer success notes,definition_drift,53310,503,0.94,Low
+CHK0082,2026-03-23,launch tracker,null_rate,145491,4250,2.92,High
+CHK0083,2026-03-24,user interviews,freshness,55876,1428,2.56,High
+CHK0084,2026-03-25,launch tracker,freshness,136179,2872,2.11,Medium
+CHK0085,2026-03-26,product events,definition_drift,178161,4832,2.71,High
+CHK0086,2026-03-27,launch tracker,null_rate,16416,465,2.83,High
+CHK0087,2026-03-28,customer success notes,duplicate_key,194901,1207,0.62,Low
+CHK0088,2026-03-29,launch tracker,definition_drift,100730,3414,3.39,High
+CHK0089,2026-03-30,user interviews,definition_drift,114341,738,0.65,Low
+CHK0090,2026-03-31,Jira,duplicate_key,38898,726,1.87,Medium
+CHK0091,2026-04-01,launch tracker,duplicate_key,238481,3382,1.42,Medium
+CHK0092,2026-04-02,launch tracker,definition_drift,19389,367,1.89,Medium
+CHK0093,2026-04-03,product events,null_rate,42756,77,0.18,Low
+CHK0094,2026-04-04,launch tracker,freshness,74944,1199,1.6,Medium
+CHK0095,2026-04-05,Jira,referential_integrity,178973,689,0.38,Low
+CHK0096,2026-04-06,launch tracker,duplicate_key,120403,2231,1.85,Medium
+CHK0097,2026-04-07,product events,definition_drift,189375,4838,2.55,High
+CHK0098,2026-04-08,launch tracker,freshness,5475,95,1.74,Medium
+CHK0099,2026-04-09,launch tracker,duplicate_key,61269,1456,2.38,Medium
+CHK0100,2026-04-10,customer success notes,definition_drift,60652,754,1.24,Medium
+CHK0101,2026-04-11,launch tracker,null_rate,122876,71,0.06,Low
+CHK0102,2026-04-12,Jira,threshold_breach,223467,7413,3.32,High
+CHK0103,2026-04-13,launch tracker,duplicate_key,236844,2192,0.93,Low
+CHK0104,2026-04-14,Jira,duplicate_key,136095,4110,3.02,High
+CHK0105,2026-04-15,Jira,null_rate,204189,6696,3.28,High
+CHK0106,2026-04-16,launch tracker,threshold_breach,214300,73,0.03,Low
+CHK0107,2026-04-17,Jira,null_rate,183195,2732,1.49,Medium
+CHK0108,2026-04-18,customer success notes,referential_integrity,101217,2413,2.38,Medium
+CHK0109,2026-04-19,user interviews,null_rate,166841,600,0.36,Low
+CHK0110,2026-04-20,product events,definition_drift,5295,75,1.42,Medium
+CHK0111,2026-04-21,Jira,referential_integrity,192488,1363,0.71,Low
+CHK0112,2026-04-22,customer success notes,definition_drift,140365,2837,2.02,Medium
+CHK0113,2026-04-23,product events,null_rate,88297,212,0.24,Low
+CHK0114,2026-04-24,user interviews,duplicate_key,180665,205,0.11,Low
+CHK0115,2026-04-25,user interviews,definition_drift,191000,3126,1.64,Medium
+CHK0116,2026-04-26,user interviews,null_rate,165399,5550,3.36,High
+CHK0117,2026-04-27,customer success notes,threshold_breach,165807,6487,3.91,High
+CHK0118,2026-04-28,launch tracker,threshold_breach,222751,6989,3.14,High
+CHK0119,2026-04-29,Jira,duplicate_key,232264,2352,1.01,Medium
+CHK0120,2026-04-30,Jira,definition_drift,69730,1255,1.8,Medium
+CHK0121,2026-01-01,launch tracker,definition_drift,14047,515,3.67,High
+CHK0122,2026-01-02,Jira,null_rate,200672,6250,3.11,High
+CHK0123,2026-01-03,launch tracker,duplicate_key,33811,168,0.5,Low
+CHK0124,2026-01-04,product events,definition_drift,221470,4444,2.01,Medium
+CHK0125,2026-01-05,product events,referential_integrity,114666,2700,2.35,Medium
+CHK0126,2026-01-06,product events,threshold_breach,67966,1043,1.53,Medium
+CHK0127,2026-01-07,customer success notes,duplicate_key,187616,3623,1.93,Medium
+CHK0128,2026-01-08,customer success notes,definition_drift,43770,488,1.11,Medium
+CHK0129,2026-01-09,customer success notes,referential_integrity,157526,965,0.61,Low
+CHK0130,2026-01-10,Jira,referential_integrity,155735,6226,4,High
+CHK0131,2026-01-11,customer success notes,referential_integrity,23141,596,2.58,High
+CHK0132,2026-01-12,customer success notes,referential_integrity,181667,7266,4,High
+CHK0133,2026-01-13,customer success notes,duplicate_key,12047,17,0.14,Low
+CHK0134,2026-01-14,user interviews,referential_integrity,231185,8026,3.47,High
+CHK0135,2026-01-15,product events,referential_integrity,13276,314,2.37,Medium
+CHK0136,2026-01-16,Jira,null_rate,126025,3189,2.53,High
+CHK0137,2026-01-17,product events,null_rate,220354,6451,2.93,High
+CHK0138,2026-01-18,launch tracker,threshold_breach,229877,8125,3.53,High
+CHK0139,2026-01-19,launch tracker,definition_drift,115589,3672,3.18,High
+CHK0140,2026-01-20,customer success notes,duplicate_key,141283,3970,2.81,High
+CHK0141,2026-01-21,customer success notes,null_rate,99414,2513,2.53,High
+CHK0142,2026-01-22,launch tracker,threshold_breach,31563,514,1.63,Medium
+CHK0143,2026-01-23,Jira,threshold_breach,26361,11,0.04,Low
+CHK0144,2026-01-24,customer success notes,null_rate,84895,366,0.43,Low
+CHK0145,2026-01-25,launch tracker,duplicate_key,146987,4829,3.29,High
+CHK0146,2026-01-26,customer success notes,duplicate_key,192434,595,0.31,Low
+CHK0147,2026-01-27,product events,threshold_breach,151940,652,0.43,Low
+CHK0148,2026-01-28,product events,threshold_breach,139576,5199,3.72,High
+CHK0149,2026-01-29,Jira,duplicate_key,143767,5175,3.6,High
+CHK0150,2026-01-30,customer success notes,duplicate_key,47264,1179,2.49,Medium
+CHK0151,2026-01-31,user interviews,threshold_breach,189074,6582,3.48,High
+CHK0152,2026-02-01,customer success notes,freshness,110943,1121,1.01,Medium
+CHK0153,2026-02-02,customer success notes,threshold_breach,124721,3952,3.17,High
+CHK0154,2026-02-03,launch tracker,duplicate_key,115352,3136,2.72,High
+CHK0155,2026-02-04,product events,threshold_breach,96264,3144,3.27,High
+CHK0156,2026-02-05,customer success notes,freshness,159763,6143,3.85,High
+CHK0157,2026-02-06,launch tracker,null_rate,154941,3475,2.24,Medium
+CHK0158,2026-02-07,product events,freshness,202666,4813,2.37,Medium
+CHK0159,2026-02-08,launch tracker,duplicate_key,108702,31,0.03,Low
+CHK0160,2026-02-09,customer success notes,definition_drift,99592,2265,2.27,Medium
+CHK0161,2026-02-10,user interviews,referential_integrity,105483,920,0.87,Low
+CHK0162,2026-02-11,Jira,referential_integrity,134087,1304,0.97,Low
+CHK0163,2026-02-12,customer success notes,referential_integrity,35918,1235,3.44,High
+CHK0164,2026-02-13,launch tracker,threshold_breach,129023,107,0.08,Low
+CHK0165,2026-02-14,product events,referential_integrity,146509,3163,2.16,Medium
+CHK0166,2026-02-15,customer success notes,freshness,7455,252,3.38,High
+CHK0167,2026-02-16,product events,definition_drift,233122,8950,3.84,High
+CHK0168,2026-02-17,user interviews,duplicate_key,129325,2641,2.04,Medium
+CHK0169,2026-02-18,user interviews,referential_integrity,44938,1575,3.5,High
+CHK0170,2026-02-19,customer success notes,freshness,208508,6449,3.09,High
+CHK0171,2026-02-20,Jira,duplicate_key,181546,6362,3.5,High
+CHK0172,2026-02-21,launch tracker,freshness,157594,1833,1.16,Medium
+CHK0173,2026-02-22,product events,duplicate_key,135779,5244,3.86,High
+CHK0174,2026-02-23,user interviews,duplicate_key,230330,3339,1.45,Medium
+CHK0175,2026-02-24,user interviews,null_rate,177093,6871,3.88,High
+CHK0176,2026-02-25,user interviews,duplicate_key,222588,4329,1.94,Medium
+CHK0177,2026-02-26,launch tracker,null_rate,141587,4228,2.99,High
+CHK0178,2026-02-27,launch tracker,freshness,122893,3582,2.91,High
+CHK0179,2026-02-28,launch tracker,freshness,149775,1257,0.84,Low
+CHK0180,2026-03-01,launch tracker,freshness,60578,2195,3.62,High
+CHK0181,2026-03-02,customer success notes,freshness,143795,978,0.68,Low
+CHK0182,2026-03-03,customer success notes,null_rate,29800,689,2.31,Medium
+CHK0183,2026-03-04,launch tracker,definition_drift,156862,6166,3.93,High
+CHK0184,2026-03-05,product events,null_rate,106686,3655,3.43,High
+CHK0185,2026-03-06,user interviews,definition_drift,119467,59,0.05,Low
+CHK0186,2026-03-07,launch tracker,threshold_breach,203231,170,0.08,Low
+CHK0187,2026-03-08,launch tracker,duplicate_key,158721,5760,3.63,High
+CHK0188,2026-03-09,Jira,threshold_breach,75235,2870,3.81,High
+CHK0189,2026-03-10,product events,duplicate_key,195336,5373,2.75,High
+CHK0190,2026-03-11,Jira,threshold_breach,62485,955,1.53,Medium
+CHK0191,2026-03-12,customer success notes,duplicate_key,33762,872,2.58,High
+CHK0192,2026-03-13,product events,freshness,170186,6369,3.74,High
+CHK0193,2026-03-14,product events,threshold_breach,184551,443,0.24,Low
+CHK0194,2026-03-15,Jira,referential_integrity,121725,74,0.06,Low
+CHK0195,2026-03-16,user interviews,definition_drift,71582,2056,2.87,High
+CHK0196,2026-03-17,launch tracker,definition_drift,143687,2728,1.9,Medium
+CHK0197,2026-03-18,Jira,definition_drift,79818,819,1.03,Medium
+CHK0198,2026-03-19,product events,referential_integrity,92118,423,0.46,Low
+CHK0199,2026-03-20,launch tracker,threshold_breach,31510,392,1.24,Medium
+CHK0200,2026-03-21,user interviews,definition_drift,28315,1122,3.96,High
+CHK0201,2026-03-22,customer success notes,definition_drift,68347,1310,1.92,Medium
+CHK0202,2026-03-23,Jira,definition_drift,92284,1953,2.12,Medium
+CHK0203,2026-03-24,Jira,freshness,113947,432,0.38,Low
+CHK0204,2026-03-25,launch tracker,threshold_breach,152019,2813,1.85,Medium
+CHK0205,2026-03-26,customer success notes,freshness,68593,2243,3.27,High
+CHK0206,2026-03-27,customer success notes,definition_drift,185038,4230,2.29,Medium
+CHK0207,2026-03-28,customer success notes,referential_integrity,18913,24,0.13,Low
+CHK0208,2026-03-29,user interviews,definition_drift,196663,1903,0.97,Low
+CHK0209,2026-03-30,customer success notes,null_rate,223401,554,0.25,Low
+CHK0210,2026-03-31,customer success notes,referential_integrity,153232,5112,3.34,High
+CHK0211,2026-04-01,user interviews,definition_drift,156487,1211,0.77,Low
+CHK0212,2026-04-02,customer success notes,threshold_breach,169373,5857,3.46,High
+CHK0213,2026-04-03,user interviews,duplicate_key,197648,4072,2.06,Medium
+CHK0214,2026-04-04,customer success notes,threshold_breach,232001,9276,4,High
+CHK0215,2026-04-05,product events,freshness,227159,5152,2.27,Medium
+CHK0216,2026-04-06,Jira,definition_drift,178378,6158,3.45,High
+CHK0217,2026-04-07,Jira,referential_integrity,149592,4814,3.22,High
+CHK0218,2026-04-08,user interviews,definition_drift,167303,4378,2.62,High
+CHK0219,2026-04-09,user interviews,referential_integrity,193161,6746,3.49,High
+CHK0220,2026-04-10,user interviews,null_rate,208854,4847,2.32,Medium
+CHK0221,2026-04-11,user interviews,definition_drift,28507,794,2.79,High
+CHK0222,2026-04-12,launch tracker,definition_drift,187269,749,0.4,Low
+CHK0223,2026-04-13,launch tracker,duplicate_key,54324,817,1.5,Medium
+CHK0224,2026-04-14,product events,referential_integrity,137870,5408,3.92,High
+CHK0225,2026-04-15,launch tracker,null_rate,67837,2458,3.62,High
+CHK0226,2026-04-16,user interviews,definition_drift,60740,406,0.67,Low
+CHK0227,2026-04-17,product events,threshold_breach,102113,2842,2.78,High
+CHK0228,2026-04-18,launch tracker,duplicate_key,227529,4215,1.85,Medium
+CHK0229,2026-04-19,product events,referential_integrity,82830,3020,3.65,High
+CHK0230,2026-04-20,customer success notes,referential_integrity,68617,72,0.1,Low
+CHK0231,2026-04-21,Jira,definition_drift,217273,5411,2.49,Medium
+CHK0232,2026-04-22,product events,threshold_breach,183513,4948,2.7,High
+CHK0233,2026-04-23,user interviews,definition_drift,202788,6224,3.07,High
+CHK0234,2026-04-24,customer success notes,referential_integrity,62399,7,0.01,Low
+CHK0235,2026-04-25,Jira,threshold_breach,123873,4593,3.71,High
+CHK0236,2026-04-26,launch tracker,threshold_breach,126425,1615,1.28,Medium
+CHK0237,2026-04-27,user interviews,duplicate_key,168710,6171,3.66,High
+CHK0238,2026-04-28,product events,duplicate_key,196432,3034,1.54,Medium
+CHK0239,2026-04-29,customer success notes,freshness,121551,845,0.7,Low
+CHK0240,2026-04-30,product events,threshold_breach,128536,5021,3.91,High
+CHK0241,2026-01-01,customer success notes,definition_drift,65534,2607,3.98,High
+CHK0242,2026-01-02,product events,referential_integrity,225547,2212,0.98,Low
+CHK0243,2026-01-03,product events,referential_integrity,144057,3081,2.14,Medium
+CHK0244,2026-01-04,product events,definition_drift,228728,8311,3.63,High
+CHK0245,2026-01-05,launch tracker,duplicate_key,97981,2593,2.65,High
+CHK0246,2026-01-06,Jira,threshold_breach,237310,2271,0.96,Low
+CHK0247,2026-01-07,product events,definition_drift,13294,319,2.4,Medium
+CHK0248,2026-01-08,launch tracker,referential_integrity,208335,7283,3.5,High
+CHK0249,2026-01-09,launch tracker,null_rate,127300,2013,1.58,Medium
+CHK0250,2026-01-10,customer success notes,definition_drift,188760,3254,1.72,Medium
+CHK0251,2026-01-11,user interviews,threshold_breach,171567,1309,0.76,Low
+CHK0252,2026-01-12,user interviews,duplicate_key,84289,3178,3.77,High
+CHK0253,2026-01-13,Jira,freshness,164410,2058,1.25,Medium
+CHK0254,2026-01-14,Jira,threshold_breach,160458,636,0.4,Low
+CHK0255,2026-01-15,Jira,referential_integrity,22821,158,0.69,Low
+CHK0256,2026-01-16,Jira,definition_drift,124063,1515,1.22,Medium
+CHK0257,2026-01-17,user interviews,referential_integrity,145745,5722,3.93,High
+CHK0258,2026-01-18,launch tracker,freshness,132327,2912,2.2,Medium
+CHK0259,2026-01-19,Jira,duplicate_key,99491,1073,1.08,Medium
+CHK0260,2026-01-20,user interviews,threshold_breach,143316,503,0.35,Low
+CHK0261,2026-01-21,customer success notes,threshold_breach,187298,1732,0.92,Low
+CHK0262,2026-01-22,product events,referential_integrity,237696,8862,3.73,High
+CHK0263,2026-01-23,product events,definition_drift,164639,5734,3.48,High
+CHK0264,2026-01-24,customer success notes,definition_drift,238135,1551,0.65,Low
+CHK0265,2026-01-25,user interviews,freshness,121365,4696,3.87,High
+CHK0266,2026-01-26,launch tracker,duplicate_key,60946,111,0.18,Low
+CHK0267,2026-01-27,user interviews,referential_integrity,183303,6226,3.4,High
+CHK0268,2026-01-28,user interviews,null_rate,82680,3184,3.85,High
+CHK0269,2026-01-29,user interviews,freshness,228787,8992,3.93,High
+CHK0270,2026-01-30,customer success notes,definition_drift,87053,549,0.63,Low
+CHK0271,2026-01-31,user interviews,referential_integrity,98339,1461,1.49,Medium
+CHK0272,2026-02-01,launch tracker,definition_drift,139627,1630,1.17,Medium
+CHK0273,2026-02-02,launch tracker,freshness,58394,1799,3.08,High
+CHK0274,2026-02-03,Jira,threshold_breach,42829,1394,3.25,High
+CHK0275,2026-02-04,customer success notes,freshness,84463,2399,2.84,High
+CHK0276,2026-02-05,customer success notes,duplicate_key,1413,8,0.57,Low
+CHK0277,2026-02-06,Jira,threshold_breach,115650,1555,1.34,Medium
+CHK0278,2026-02-07,user interviews,duplicate_key,107369,2786,2.59,High
+CHK0279,2026-02-08,product events,threshold_breach,84999,196,0.23,Low
+CHK0280,2026-02-09,customer success notes,freshness,78877,1549,1.96,Medium
+CHK0281,2026-02-10,user interviews,referential_integrity,203897,92,0.05,Low
+CHK0282,2026-02-11,user interviews,threshold_breach,209695,1702,0.81,Low
+CHK0283,2026-02-12,user interviews,definition_drift,65917,888,1.35,Medium
+CHK0284,2026-02-13,user interviews,duplicate_key,181607,1034,0.57,Low
+CHK0285,2026-02-14,Jira,freshness,156599,1655,1.06,Medium
+CHK0286,2026-02-15,customer success notes,freshness,43697,1278,2.92,High
+CHK0287,2026-02-16,launch tracker,definition_drift,30783,18,0.06,Low
+CHK0288,2026-02-17,launch tracker,null_rate,11082,227,2.05,Medium
+CHK0289,2026-02-18,customer success notes,null_rate,91381,1879,2.06,Medium
+CHK0290,2026-02-19,launch tracker,null_rate,39477,26,0.07,Low
+CHK0291,2026-02-20,launch tracker,definition_drift,35696,1308,3.66,High
+CHK0292,2026-02-21,user interviews,referential_integrity,132015,2378,1.8,Medium
+CHK0293,2026-02-22,Jira,referential_integrity,185880,7006,3.77,High
+CHK0294,2026-02-23,customer success notes,definition_drift,182798,1340,0.73,Low
+CHK0295,2026-02-24,customer success notes,definition_drift,204240,263,0.13,Low
+CHK0296,2026-02-25,customer success notes,referential_integrity,74500,173,0.23,Low
+CHK0297,2026-02-26,product events,freshness,214485,2622,1.22,Medium
+CHK0298,2026-02-27,user interviews,duplicate_key,30018,612,2.04,Medium
+CHK0299,2026-02-28,user interviews,threshold_breach,25119,340,1.35,Medium
+CHK0300,2026-03-01,launch tracker,freshness,22653,448,1.98,Medium
+CHK0301,2026-03-02,user interviews,threshold_breach,41478,1242,2.99,High
+CHK0302,2026-03-03,customer success notes,freshness,157645,1500,0.95,Low
+CHK0303,2026-03-04,Jira,null_rate,40806,981,2.4,Medium
+CHK0304,2026-03-05,user interviews,referential_integrity,112253,3543,3.16,High
+CHK0305,2026-03-06,Jira,null_rate,114183,2814,2.46,Medium
+CHK0306,2026-03-07,product events,definition_drift,25371,396,1.56,Medium
+CHK0307,2026-03-08,Jira,definition_drift,188788,1483,0.79,Low
+CHK0308,2026-03-09,Jira,null_rate,206594,5443,2.63,High
+CHK0309,2026-03-10,Jira,duplicate_key,43309,460,1.06,Medium
+CHK0310,2026-03-11,launch tracker,freshness,142923,3314,2.32,Medium
+CHK0311,2026-03-12,customer success notes,definition_drift,55604,2039,3.67,High
+CHK0312,2026-03-13,customer success notes,freshness,150521,1897,1.26,Medium
+CHK0313,2026-03-14,launch tracker,duplicate_key,52490,1845,3.51,High
+CHK0314,2026-03-15,launch tracker,threshold_breach,172202,5658,3.29,High
+CHK0315,2026-03-16,user interviews,threshold_breach,87293,2750,3.15,High
+CHK0316,2026-03-17,product events,referential_integrity,24476,275,1.12,Medium
+CHK0317,2026-03-18,product events,referential_integrity,36830,408,1.11,Medium
+CHK0318,2026-03-19,launch tracker,duplicate_key,137728,1913,1.39,Medium
+CHK0319,2026-03-20,user interviews,null_rate,169739,5956,3.51,High
+CHK0320,2026-03-21,user interviews,definition_drift,159444,1278,0.8,Low
+CHK0321,2026-03-22,product events,referential_integrity,56051,1636,2.92,High
+CHK0322,2026-03-23,customer success notes,null_rate,202485,3378,1.67,Medium
+CHK0323,2026-03-24,Jira,referential_integrity,121810,542,0.44,Low
+CHK0324,2026-03-25,user interviews,referential_integrity,195495,5098,2.61,High
+CHK0325,2026-03-26,product events,duplicate_key,110331,3403,3.08,High
+CHK0326,2026-03-27,customer success notes,definition_drift,204665,1079,0.53,Low
+CHK0327,2026-03-28,launch tracker,definition_drift,188506,630,0.33,Low
+CHK0328,2026-03-29,user interviews,null_rate,53127,2044,3.85,High
+CHK0329,2026-03-30,Jira,definition_drift,155251,56,0.04,Low
+CHK0330,2026-03-31,product events,duplicate_key,150808,1481,0.98,Low
+CHK0331,2026-04-01,launch tracker,freshness,99500,3463,3.48,High
+CHK0332,2026-04-02,customer success notes,referential_integrity,187310,115,0.06,Low
+CHK0333,2026-04-03,customer success notes,referential_integrity,116739,4386,3.76,High
+CHK0334,2026-04-04,launch tracker,definition_drift,230751,9027,3.91,High
+CHK0335,2026-04-05,launch tracker,null_rate,40484,1360,3.36,High
+CHK0336,2026-04-06,product events,duplicate_key,167832,471,0.28,Low
+CHK0337,2026-04-07,Jira,definition_drift,145110,4403,3.03,High
+CHK0338,2026-04-08,customer success notes,threshold_breach,115267,3816,3.31,High
+CHK0339,2026-04-09,customer success notes,freshness,189911,3569,1.88,Medium
+CHK0340,2026-04-10,Jira,referential_integrity,128840,2928,2.27,Medium
+CHK0341,2026-04-11,product events,freshness,151815,1066,0.7,Low
+CHK0342,2026-04-12,launch tracker,freshness,166514,2555,1.53,Medium
+CHK0343,2026-04-13,user interviews,freshness,16639,103,0.62,Low
+CHK0344,2026-04-14,product events,duplicate_key,66485,2522,3.79,High
+CHK0345,2026-04-15,product events,null_rate,63482,570,0.9,Low
+CHK0346,2026-04-16,user interviews,threshold_breach,18373,101,0.55,Low
+CHK0347,2026-04-17,customer success notes,definition_drift,207675,165,0.08,Low
+CHK0348,2026-04-18,user interviews,freshness,92964,1711,1.84,Medium
+CHK0349,2026-04-19,product events,duplicate_key,75959,234,0.31,Low
+CHK0350,2026-04-20,customer success notes,referential_integrity,25994,311,1.2,Medium
+CHK0351,2026-04-21,launch tracker,threshold_breach,53021,1563,2.95,High
+CHK0352,2026-04-22,launch tracker,threshold_breach,212369,8271,3.89,High
+CHK0353,2026-04-23,product events,definition_drift,191060,6539,3.42,High
+CHK0354,2026-04-24,customer success notes,threshold_breach,85243,2059,2.42,Medium
+CHK0355,2026-04-25,Jira,duplicate_key,90712,1205,1.33,Medium
+CHK0356,2026-04-26,product events,threshold_breach,96524,3068,3.18,High
+CHK0357,2026-04-27,launch tracker,threshold_breach,231506,4116,1.78,Medium
+CHK0358,2026-04-28,user interviews,threshold_breach,125840,650,0.52,Low
+CHK0359,2026-04-29,user interviews,threshold_breach,208968,11,0.01,Low
+CHK0360,2026-04-30,product events,duplicate_key,56333,1071,1.9,Medium
