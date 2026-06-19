@@ -8,42 +8,29 @@
 </head>
 <body>
   <main>
-    <section class="hero">
-      <div class="hero-text">
-        <div class="eyebrow">WeVideo Product Manager</div>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Interactive video learning SaaS</p>
         <h1>Video Learning Product Discovery Lab</h1>
-        <p>Video learning product teams need customer interviews, classroom workflows, adoption metrics, and launch tradeoffs synthesized before building the next collaboration feature.</p>
+        <p class="lede">A product management artifact for turning educator research, usage signals, support friction, and launch risks into a roadmap decision and PRD handoff.</p>
       </div>
-      <div class="panel">
-        <h2 class="section-title">Executive Pulse</h2>
-        <div class="cards" id="cards"></div>
+      <div class="decision-card" aria-live="polite">
+        <span>Recommended move</span>
+        <strong id="recommendedMove">Loading</strong>
       </div>
-    </section>
-    <section class="grid">
-      <div class="panel">
-        <h2 class="section-title">What The Data Says</h2>
-        <ul id="says"></ul>
-      </div>
-      <div class="panel">
-        <h2 class="section-title">Recommended Moves</h2>
-        <ul id="recs"></ul>
-      </div>
-    </section>
-    <section class="panel" style="margin-top:20px">
-      <h2 class="section-title">Priority Queue</h2>
-      <table>
-        <thead><tr><th>Domain</th><th>Owner</th><th>Priority</th><th>Action</th></tr></thead>
-        <tbody id="rows"></tbody>
-      </table>
-    </section>
+    </header>
+
+    <section class="metric-strip" id="metricStrip" aria-label="Summary metrics"></section>
+
+    <nav class="tabs" aria-label="Artifact surfaces">
+      <button class="tab active" type="button" data-view="cockpit">Cockpit</button>
+      <button class="tab" type="button" data-view="evidence">Evidence</button>
+      <button class="tab" type="button" data-view="prd">PRD</button>
+      <button class="tab" type="button" data-view="launch">Launch</button>
+    </nav>
+
+    <section id="view" class="surface" aria-live="polite"></section>
   </main>
-  <script src="src/data.js"></script>
-  <script>
-    const data = window.dashboardData;
-    document.getElementById('cards').innerHTML = data.cards.map(([label, value, delta]) => '<div class="card"><span>' + label + '</span><strong>' + value + '</strong><span class="badge">' + delta + '</span></div>').join('');
-    document.getElementById('says').innerHTML = data.dataSays.map((d) => '<li>' + d + '</li>').join('');
-    document.getElementById('recs').innerHTML = data.recs.map((d) => '<li>' + d + '</li>').join('');
-    document.getElementById('rows').innerHTML = data.table.map((row) => '<tr>' + row.map((cell, idx) => idx === 2 ? '<td><span class="badge">' + cell + '</span></td>' : '<td>' + cell + '</td>').join('') + '</tr>').join('');
-  </script>
+  <script src="src/app.js"></script>
 </body>
 </html>

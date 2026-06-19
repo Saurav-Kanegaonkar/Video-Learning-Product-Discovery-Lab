@@ -1,0 +1,11 @@
+{
+  "top_opportunity": "AI-assisted interactive question authoring",
+  "top_persona": "Instructional designer",
+  "top_score": 54.3,
+  "now_count": 3,
+  "evidence_signals": 42,
+  "average_instrumentation": 70.2,
+  "avg_cs_contacts": 23.2,
+  "recommended_move": "Move the highest-confidence AI-assisted authoring workflow into PRD review while burning down LMS sync and data-risk dependencies.",
+  "data_note": "Deterministic synthetic data modeled on interactive video learning SaaS discovery, adoption, support, sales, and launch-readiness workflows."
+}

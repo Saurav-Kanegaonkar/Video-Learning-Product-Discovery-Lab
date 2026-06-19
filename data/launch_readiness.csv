@@ -1,0 +1,8 @@
+opportunity_id,metric_readiness,qa_readiness,gtm_readiness,cs_readiness,top_launch_risk,release_gate
+OPP-101,89.2,72.9,87,86,Enablement clarity,Ready for PRD review
+OPP-102,74.4,56.3,84,90,Instrumentation gap,Needs risk burn-down
+OPP-103,80.6,63.7,82,78,Scope creep,Ready for PRD review
+OPP-104,65.8,71.1,74,74,Instrumentation gap,Ready for PRD review
+OPP-105,81.0,80.0,87,82,Enablement clarity,Ready for PRD review
+OPP-106,86.4,78.8,69,68,Enablement clarity,Ready for PRD review
+OPP-107,71.8,62.4,74,80,Instrumentation gap,Ready for PRD review

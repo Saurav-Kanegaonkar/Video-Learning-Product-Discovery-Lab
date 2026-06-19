@@ -1,48 +1,76 @@
 # Video Learning Product Discovery Lab
 
-## Motivation
+An interactive product management portfolio artifact for a video learning SaaS platform. The lab shows how a PM can synthesize educator research, instructional-design workflows, product telemetry, customer-success friction, sales feedback, and launch risks into a roadmap decision and PRD-ready engineering handoff.
 
-Video learning product teams need customer interviews, classroom workflows, adoption metrics, and launch tradeoffs synthesized before building the next collaboration feature.
+## Screenshots
 
-This is a practical decision artifact: it includes data, analysis notes, runnable scoring logic, and a visual dashboard that explains what the operating team should do next.
+![Opportunity cockpit ranking product opportunities](docs/images/cockpit.png)
 
-## What Is In The Project
+The opportunity cockpit ranks product opportunities by user pain, adoption reach, learning value, evidence strength, engineering effort, and data risk. It turns broad customer input into a clear roadmap queue.
 
-- Browser dashboard in `index.html`
-- Six source-style CSV datasets in `data/`
-- Analysis profile and recommendations in `analysis/`
-- Reproducible scoring script in `scripts/`
-- Data dictionary in `data_dictionary.md`
-- Screenshot in `docs/images/dashboard.png`
+![Evidence board summarizing discovery signals](docs/images/evidence.png)
 
-## Data Inventory
+The evidence board shows the research and operating signals behind a selected opportunity, including interviews, support tickets, product telemetry, sales notes, usability findings, and engineering release review input.
 
-- 2,880 daily metric rows across 120 days
-- 720 source-system events
-- 80 stakeholder requirements
-- 360 data quality checks
-- 90 prioritized actions
+![PRD handoff builder with user story and metrics](docs/images/prd.png)
 
-## What The Data Says
+The PRD handoff builder converts the selected opportunity into a problem statement, job to be done, user story, acceptance criteria, launch metric, guardrail metric, and non-goal.
 
-- Educator adoption improves when creation workflows reduce setup steps without reducing project structure.
-- Customer success notes reveal onboarding friction earlier than monthly active usage metrics.
-- Feature requests become clearer when mapped to learner outcome, creator effort, and support burden.
+![Launch readiness surface with metric trend packet](docs/images/launch.png)
 
-## Analytical Recommendations
+The launch readiness surface checks metric coverage, QA readiness, go-to-market readiness, customer-success enablement, and recent telemetry before the work moves from PRD review into sprint planning.
 
-- Prioritize roadmap themes using user pain, adoption reach, classroom value, engineering effort, and support risk.
-- Turn research notes into PRD-ready problem statements before writing solution requirements.
-- Track launch success with activation, repeat creation, collaboration depth, and customer-success friction together.
+## What This Project Demonstrates
 
-## Screenshot
+- Product discovery synthesis across research, telemetry, support, sales, design, and engineering signals.
+- Roadmap prioritization that balances customer pain, adoption reach, learning outcome value, business pull, effort, and data risk.
+- PRD writing discipline, including problem framing, user story, acceptance criteria, non-goals, metrics, and Agile handoff status.
+- Launch measurement planning with primary metrics, guardrails, instrumentation coverage, QA readiness, and customer-success enablement.
+- Reproducible synthetic data generation with transparent assumptions and outputs.
 
-![Video Learning Product Discovery Lab dashboard](docs/images/dashboard.png)
+## Data Strategy
+
+All data is deterministic synthetic data generated for a public portfolio artifact. It does not represent real customers, students, teachers, districts, institutions, accounts, support tickets, interviews, product events, revenue, or company performance.
+
+The synthetic structure is modeled on common interactive video learning SaaS workflows:
+
+- Educator and instructional-designer discovery interviews.
+- Customer-success tickets and onboarding friction.
+- Product telemetry for activation, repeat usage, collaboration, and publishing.
+- Sales and buyer feedback around learning impact, integrations, and workflow clarity.
+- AI-assisted authoring, caption accessibility, LMS sync, learner analytics, content libraries, and live response workflows.
+- PRD handoff artifacts for Agile engineering teams.
+- Launch-readiness checks for metrics, QA, go-to-market, and customer success.
+
+The generator uses fixed inputs in `scripts/score_operating_data.py`, so the artifact can be rebuilt and explained consistently.
+
+## Repository Structure
+
+- `data/`: synthetic source-style CSVs for opportunities, discovery signals, weekly product metrics, PRD handoff, and launch readiness.
+- `analysis/outputs/`: scored queues and `app_payload.json` used by the front end.
+- `analysis/`: methodology, analysis plan, executive findings, and example SQL checks.
+- `src/`: static JavaScript and CSS for the interactive product studio.
+- `docs/images/`: screenshots of the four artifact surfaces.
 
 ## Run Locally
 
 ```bash
-python3 -m http.server 4173
+npm run analyze
+npm run start
 ```
 
 Then open `http://localhost:4173`.
+
+To refresh screenshots after changing the app:
+
+```bash
+npm run screenshots
+```
+
+## Role Connection
+
+This artifact is designed for a Product Manager role that values customer discovery, user-centric roadmap prioritization, measurable launch goals, Agile handoff, cross-functional alignment, and clear written product thinking. It shows the work behind deciding what to build, not only the final dashboard.
+
+## Scope
+
+This is a public static portfolio artifact, not a production product management system. It does not connect to real LMS platforms, video editors, analytics tools, CRM systems, support systems, AI services, data warehouses, Jira, or private customer data. It shows how a PM can structure discovery evidence, roadmap tradeoffs, PRD handoff, and launch measurement into a defensible workflow before production implementation.

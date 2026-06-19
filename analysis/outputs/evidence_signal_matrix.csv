@@ -1,0 +1,43 @@
+signal_id,opportunity_id,signal_type,source,persona,workflow,severity,frequency,confidence,insight,pm_decision
+SIG-101-01,OPP-101,Interview,User research,Instructional designer,AI-assisted interactive question authoring,5,79,95,Users asked for a clearer workflow before adding another creation tool.,prioritize
+SIG-101-02,OPP-101,Support ticket,Customer Success,Instructional designer,AI-assisted interactive question authoring,5,92,94,Support volume spikes when setup steps and LMS states are unclear.,prioritize
+SIG-101-03,OPP-101,Product telemetry,Product analytics,Instructional designer,AI-assisted interactive question authoring,3,89,89,Activation improves when the workflow moves from draft to publish in one sitting.,prioritize
+SIG-101-04,OPP-101,Sales note,Sales,Instructional designer,AI-assisted interactive question authoring,3,94,88,Buyers ask how the platform proves learning impact and reduces instructor workload.,prioritize
+SIG-101-05,OPP-101,Usability test,Design,Instructional designer,AI-assisted interactive question authoring,5,99,91,Participants understand the value but hesitate when ownership or next step is hidden.,prioritize
+SIG-101-06,OPP-101,Release review,Engineering,Instructional designer,AI-assisted interactive question authoring,2,104,84,The team needs clearer acceptance criteria before committing scope.,prioritize
+SIG-102-01,OPP-102,Interview,User research,District technology admin,LMS gradebook and assignment sync repair,4,86,89,Users asked for a clearer workflow before adding another creation tool.,sequence
+SIG-102-02,OPP-102,Support ticket,Customer Success,District technology admin,LMS gradebook and assignment sync repair,4,100,88,Support volume spikes when setup steps and LMS states are unclear.,sequence
+SIG-102-03,OPP-102,Product telemetry,Product analytics,District technology admin,LMS gradebook and assignment sync repair,5,96,89,Activation improves when the workflow moves from draft to publish in one sitting.,sequence
+SIG-102-04,OPP-102,Sales note,Sales,District technology admin,LMS gradebook and assignment sync repair,2,101,82,Buyers ask how the platform proves learning impact and reduces instructor workload.,sequence
+SIG-102-05,OPP-102,Usability test,Design,District technology admin,LMS gradebook and assignment sync repair,5,106,87,Participants understand the value but hesitate when ownership or next step is hidden.,sequence
+SIG-102-06,OPP-102,Release review,Engineering,District technology admin,LMS gradebook and assignment sync repair,4,111,84,The team needs clearer acceptance criteria before committing scope.,sequence
+SIG-103-01,OPP-103,Interview,User research,K-12 teacher,Collaborative student project feedback loop,4,72,85,Users asked for a clearer workflow before adding another creation tool.,prioritize
+SIG-103-02,OPP-103,Support ticket,Customer Success,K-12 teacher,Collaborative student project feedback loop,4,83,84,Support volume spikes when setup steps and LMS states are unclear.,prioritize
+SIG-103-03,OPP-103,Product telemetry,Product analytics,K-12 teacher,Collaborative student project feedback loop,5,82,85,Activation improves when the workflow moves from draft to publish in one sitting.,prioritize
+SIG-103-04,OPP-103,Sales note,Sales,K-12 teacher,Collaborative student project feedback loop,2,87,78,Buyers ask how the platform proves learning impact and reduces instructor workload.,prioritize
+SIG-103-05,OPP-103,Usability test,Design,K-12 teacher,Collaborative student project feedback loop,5,92,83,Participants understand the value but hesitate when ownership or next step is hidden.,prioritize
+SIG-103-06,OPP-103,Release review,Engineering,K-12 teacher,Collaborative student project feedback loop,4,97,80,The team needs clearer acceptance criteria before committing scope.,prioritize
+SIG-104-01,OPP-104,Interview,User research,Faculty member,Learner analytics remediation queue,5,79,83,Users asked for a clearer workflow before adding another creation tool.,sequence
+SIG-104-02,OPP-104,Support ticket,Customer Success,Faculty member,Learner analytics remediation queue,3,89,78,Support volume spikes when setup steps and LMS states are unclear.,sequence
+SIG-104-03,OPP-104,Product telemetry,Product analytics,Faculty member,Learner analytics remediation queue,4,89,79,Activation improves when the workflow moves from draft to publish in one sitting.,sequence
+SIG-104-04,OPP-104,Sales note,Sales,Faculty member,Learner analytics remediation queue,4,94,78,Buyers ask how the platform proves learning impact and reduces instructor workload.,sequence
+SIG-104-05,OPP-104,Usability test,Design,Faculty member,Learner analytics remediation queue,4,99,77,Participants understand the value but hesitate when ownership or next step is hidden.,sequence
+SIG-104-06,OPP-104,Release review,Engineering,Faculty member,Learner analytics remediation queue,3,104,74,The team needs clearer acceptance criteria before committing scope.,sequence
+SIG-105-01,OPP-105,Interview,User research,Accessibility coordinator,Accessible captions and transcript QA,5,72,89,Users asked for a clearer workflow before adding another creation tool.,prioritize
+SIG-105-02,OPP-105,Support ticket,Customer Success,Accessibility coordinator,Accessible captions and transcript QA,3,84,84,Support volume spikes when setup steps and LMS states are unclear.,prioritize
+SIG-105-03,OPP-105,Product telemetry,Product analytics,Accessibility coordinator,Accessible captions and transcript QA,4,82,85,Activation improves when the workflow moves from draft to publish in one sitting.,prioritize
+SIG-105-04,OPP-105,Sales note,Sales,Accessibility coordinator,Accessible captions and transcript QA,4,87,84,Buyers ask how the platform proves learning impact and reduces instructor workload.,prioritize
+SIG-105-05,OPP-105,Usability test,Design,Accessibility coordinator,Accessible captions and transcript QA,4,92,83,Participants understand the value but hesitate when ownership or next step is hidden.,prioritize
+SIG-105-06,OPP-105,Release review,Engineering,Accessibility coordinator,Accessible captions and transcript QA,3,97,80,The team needs clearer acceptance criteria before committing scope.,prioritize
+SIG-106-01,OPP-106,Interview,User research,Higher ed program lead,Course template reuse and content library governance,5,72,81,Users asked for a clearer workflow before adding another creation tool.,sequence
+SIG-106-02,OPP-106,Support ticket,Customer Success,Higher ed program lead,Course template reuse and content library governance,5,82,80,Support volume spikes when setup steps and LMS states are unclear.,sequence
+SIG-106-03,OPP-106,Product telemetry,Product analytics,Higher ed program lead,Course template reuse and content library governance,3,82,75,Activation improves when the workflow moves from draft to publish in one sitting.,sequence
+SIG-106-04,OPP-106,Sales note,Sales,Higher ed program lead,Course template reuse and content library governance,3,87,74,Buyers ask how the platform proves learning impact and reduces instructor workload.,sequence
+SIG-106-05,OPP-106,Usability test,Design,Higher ed program lead,Course template reuse and content library governance,5,92,77,Participants understand the value but hesitate when ownership or next step is hidden.,sequence
+SIG-106-06,OPP-106,Release review,Engineering,Higher ed program lead,Course template reuse and content library governance,2,97,70,The team needs clearer acceptance criteria before committing scope.,sequence
+SIG-107-01,OPP-107,Interview,User research,Corporate trainer,Live audience response session recovery,5,65,78,Users asked for a clearer workflow before adding another creation tool.,sequence
+SIG-107-02,OPP-107,Support ticket,Customer Success,Corporate trainer,Live audience response session recovery,3,78,73,Support volume spikes when setup steps and LMS states are unclear.,sequence
+SIG-107-03,OPP-107,Product telemetry,Product analytics,Corporate trainer,Live audience response session recovery,4,75,74,Activation improves when the workflow moves from draft to publish in one sitting.,sequence
+SIG-107-04,OPP-107,Sales note,Sales,Corporate trainer,Live audience response session recovery,4,80,73,Buyers ask how the platform proves learning impact and reduces instructor workload.,sequence
+SIG-107-05,OPP-107,Usability test,Design,Corporate trainer,Live audience response session recovery,4,85,72,Participants understand the value but hesitate when ownership or next step is hidden.,sequence
+SIG-107-06,OPP-107,Release review,Engineering,Corporate trainer,Live audience response session recovery,3,90,69,The team needs clearer acceptance criteria before committing scope.,sequence

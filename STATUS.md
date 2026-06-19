@@ -1,6 +1,5 @@
 # Status
 
-- Project: Video Learning Product Discovery Lab
-- Resume row: 240
-- GitHub: https://github.com/Saurav-Kanegaonkar/Video-Learning-Product-Discovery-Lab
-- State: created and pushed by Codex pipeline
+- Status: upgraded through the Portfolio Artifact Upgrade Workflow.
+- Safe to link as an interactive video learning SaaS product discovery, roadmap, PRD handoff, and launch-readiness portfolio artifact after changes are pushed.
+- Public README uses company-domain language and does not name the target company.
